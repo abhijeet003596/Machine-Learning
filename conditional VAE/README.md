@@ -703,6 +703,6 @@ Reconstruction\ Loss + KL\ Divergence
 
 ## 👨‍💻 Author
 
-**Abhi / Tutor Abhi**
+**Abhijeet Kumar**
 
 Educational implementation and learning project focused on Machine Learning, Deep Learning and Generative AI.
